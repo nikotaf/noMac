@@ -1,4 +1,4 @@
-# noMac
+# noMac![noMac](/noMAC.png?raw=true "noMAC icon")
 Have you ever got any archive from other sources, bloated with folders containing those ._ system MACOS files? Or folders with image galeries, containing those thumbs.db files, which can be as much as some MBs?
 
 Clean those reduntant, OS specific system files from your windows OS with noMAC.
