@@ -9,5 +9,11 @@ Initialy designed for removing MACOS system files, but as I personaly don't inde
 ## Usage
 Just drop files or folders in the noMAC.ahk file or its shortcut and it will clean them for you. Next, you can re-archive and be sure no reduntant files are saved.
 
+Personaly I have replaced Windows Explorer with [Directory Opus](https://www.gpsoft.com.au/) and made a button with a function
+
+```path\to\autoHotkey\file\noMAC.ahk {allfilepath}```
+
+Then I select files or/and folders and just press the button.
+
 ## Warning
 In case your system does use the thumbs.db file, it will be regenarated. But in MACOS, the dot files contain system info. Removing them from inside windows virtual system, may cause malfunction to the host.
