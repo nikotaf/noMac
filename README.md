@@ -90,4 +90,4 @@ In order to have drag&drop functionality, you need to have in registry the follo
 
 <a name="warning"></a>
 ## Warning
-In case your system does use the thumbs.db file, it will be regenerated.<br>But in MACOS, the dot files contain system info. Removing them from inside windows virtual system, may cause malfunction to the host.
+In case your system does use the `thumbs.db` file, it will be regenerated.<br>But in MACOS, the dot files contain system info. Removing them from inside windows virtual system, may cause malfunction to the host.
